@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Bank accounts related prod APIs"
+  contactDetails:
+    name: "Mrin Rane - Prod Owner"
+    email: "mrin@bank.com"
+  onCallSupport:
+    - (555) 555-8797
+    - (555) 523-7598
+

@@ -1,0 +1,12 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Bank accounts related QA APIs"
+  contactDetails:
+    name: "Asil Ansari - QA Lead"
+    email: "asil@bank.com"
+  onCallSupport:
+    - (555) 555-6574
+    - (555) 523-4536
+
